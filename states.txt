@@ -1,0 +1,11 @@
+New York	NY
+California	CA
+Illinois	IL
+Massachusetts	MA
+Pennsylvania	PA
+Texas	TX
+Georgia	GA
+Florida	FL
+Washington	WA
+Colorado	CO
+Rhode Island	RI
